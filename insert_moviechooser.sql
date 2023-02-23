@@ -1,3 +1,8 @@
+/*
+* Author: Rubén Cerdà-Bacete
+* Sofia has the other half of the inserts
+*/
+
 SET search_path TO movie_chooser;
 
 BEGIN WORK;

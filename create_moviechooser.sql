@@ -1,3 +1,7 @@
+/*
+* Authors: Rubén Cerdà-Bacete, Sofia Llàcer Caro
+*/
+
 DROP SCHEMA IF EXISTS movie_chooser CASCADE;
 
 -- Make sure that you have created a role as in:
